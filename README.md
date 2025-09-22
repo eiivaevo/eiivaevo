@@ -5,7 +5,7 @@
 </p>
 
 <p align="right" width="100%">
-    <img width="" src="https://github.com/eiivaevo/eiivaevo/blob/main/1077046.png?raw=true">
+    <img width="-20%" src="https://github.com/eiivaevo/eiivaevo/blob/main/1077046.png?raw=true">
 </p>
 <!--
 **eiivaevo/eiivaevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
