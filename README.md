@@ -3,7 +3,10 @@
 <p align="center" width="100%">
     <img width="50%" src="https://github.com/eiivaevo/eiivaevo/blob/main/fd0a04d3-b2f1-4c09-a91f-08ee56d7fd1a.jpeg?raw=true">
 </p>
-![email](https://github.com/eiivaevo/eiivaevo/blob/main/1077046.png?raw=true)
+
+<p align="center" width="100%">
+    <img width="50%" src="https://github.com/eiivaevo/eiivaevo/blob/main/fd0a04d3-b2f1-4c09-a91f-08ee56d7fd1a.jpeg?raw=true">
+</p>
 <!--
 **eiivaevo/eiivaevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
