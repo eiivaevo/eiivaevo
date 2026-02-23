@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Centered Image</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background-color: #151410;     /* bck */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    img {
+      max-width: 80vw;     /* won't overflow on mobile */
+      max-height: 80vh;
+      object-fit: contain; /* keeps aspect ratio */
+      box-shadow: 0px rgba(0,0,0,0.25); /* optional subtle shadow */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- You can replace this URL with your own image -->
+  <img src="images/humanisreal1.jpg"
+       alt="humanisreal">
+
+</body>
+</html>
